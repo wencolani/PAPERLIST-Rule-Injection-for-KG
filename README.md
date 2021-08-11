@@ -12,3 +12,7 @@ Paper list for injecting rules for knowledge graph reasoning.
 | - | 2015 | IJCAI | [Knowledge Base Completion Using Embeddings and Rules](https://www.ijcai.org/Proceedings/15/Papers/264.pdf) | Frame rule injection as ILP problem. Rules of Noisy Obervation, argument type expectation, at-most-one restraint and simple implication are considered.  | ***** |  [code](https://github.com/StudyGroup-lab/SLRE) | 
 | - | 2015 | NAACL | [Injecting Logical Background Knowledge into Embeddings for Relation Extraction](https://aclanthology.org/N15-1118.pdf) | Unsing groundings for injection based on matrix factorization method with entity pair embedding. It propose two baselines 1) pre-injection that first infer new triples via rules and then train model, and 2) post-injection that train model first then do rule inference. | ***** | 
 | - | 2015 | EMNLP | [Traversing Knowledge Graphs in Vector Space](https://aclanthology.org/D15-1038.pdf) | Applied path to train KGE, enableing KGE ansering path qureies. The key point is devise inverse relation representation for different KGEs. This could be regarded as the first step of Complex Query Answering task. | - | |  
+
+
+other collection links:
+[1](https://github.com/JxustLiao/Natural-Language-Processing/blob/09880cc5147d30e01c39fe55f06767df87653d76/knowledge%20graph%20and%20graph%20embedding/KGE/README.md#RPJE)
